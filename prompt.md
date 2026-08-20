@@ -21,7 +21,10 @@ Use the prompt.md as Release Dokument
 
 
 # GUI
-Electron APP
+Node GUI
+
+# Framework
+React
 
 
 # Description
