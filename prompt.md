@@ -18,13 +18,14 @@ https://github.com/GFGMNET/HR_O.git
 after Building the app please upload the result to git an create an release.
 Use the prompt.md as Release Dokument
 
-
+add also an Disclaimer.md to the Release which explain that an AI was used to generate this code and to use the Code that the Risk of the user
 
 # GUI
 Node GUI
 
 # Framework
 React
+
 
 
 # Description
